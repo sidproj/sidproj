@@ -10,9 +10,9 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript/TypeScript, Go, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Express, Django, Flask, FastAPI
+- **Frameworks/Libraries:** React, Node.js, Express, Next.js, Django, Flask, FastAPI
 - **Tools:** Docker, GitHub Actions, VS Code, Linux, Postman
-- **Cloud:** AWS, Azure, GCP
+- **Cloud:** AWS
 
 ## 📈 GitHub Stats
 
@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 - **LinkedIn:** [linkedin.com/in/sidproj](https://www.linkedin.com/in/sidhraj-mori/)
 
 ## ⚡ Fun Facts
-- I love solving puzzles and participating in hackathons.
+- I love solving puzzles
 - Coffee and good code go hand in hand for me ☕💻
 - Always experimenting with new tech—check out my pinned repos!
 
