@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 - 💬 Always open to collaboration, feedback, and interesting discussions.
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript/TypeScript, Go, Java, C++
+- **Languages:** Java, JavaScript/TypeScript, Go, Python, C++
 - **Frameworks/Libraries:** React, Node.js, Express, Next.js, Django, Flask, FastAPI
 - **Tools:** Docker, GitHub Actions, VS Code, Linux, Postman
 - **Cloud:** AWS
