@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 ![sidproj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidproj&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- **Email:** [sidproj@example.com](mailto:morisidhraj001@gmail.com)
+- **Email:** [morisidhraj001@gmail.com](mailto:morisidhraj001@gmail.com)
 - **LinkedIn:** [linkedin.com/in/sidproj](https://www.linkedin.com/in/sidhraj-mori/)
 
 ## ⚡ Fun Facts
